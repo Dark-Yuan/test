@@ -1,5 +1,6 @@
 <?php
     // 尝试提交
-    echo 'local dev test commit';
+    echo 'master';
+    echo 'local test commit';
     echo 'good';
     exit;
